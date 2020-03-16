@@ -18,3 +18,7 @@
 2. 二次提交项目代码
 	index.html div 是红色
 	添加了 detail.html 
+
+3. 进行了版本回退，回退到第二个版本
+   然后对detail.html文件的文本进行了修改
+   <h1>详情页</h1>
